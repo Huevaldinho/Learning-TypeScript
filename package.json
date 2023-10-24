@@ -1,17 +1,17 @@
 {
   "name": "learning-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hi, I'm learning TypeScript!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts" 
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Huevaldinho/Learning-TypeScript.git"
   },
-  "author": "",
+  "author": "Felipe Obando Arrieta",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Huevaldinho/Learning-TypeScript/issues"
